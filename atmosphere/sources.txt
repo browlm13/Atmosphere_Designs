@@ -1,0 +1,18 @@
+Sources:
+
+music streaming data:
+	http://www.hitwise.com/articles/streaming-music-audiences/
+	http://www.adweek.com/digital/4-ways-spotify-and-pandora-target-millennials-differently-167222/
+dating data:
+	tinder:
+		https://blog.globalwebindex.net/trends/what-to-know-about-tinder/
+	bumble:
+		https://migleribaciauskaite.wordpress.com/2015/10/14/who-do-they-target/
+gamming data:
+	twitch: 
+		http://blogg.livespace.se/twitch/target-audience-on-twitch-and-how-you-figure-it-out/
+		http://mediakix.com/2017/02/top-twitch-statistics-live-streaming-game-platform/#gs.kDcv0Nk
+	xbox1:
+		https://www.onmsft.com/news/leaked-report-reveals-interesting-facts-about-xbox-one-demographics
+	ps4:
+		https://www.forbes.com/sites/markrogowsky/2014/08/21/dear-sony-heres-why-so-many-people-are-buying-the-ps4/#10f83fbe5c2d
